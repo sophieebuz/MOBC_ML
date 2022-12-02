@@ -1,0 +1,6 @@
+pip install fastapi
+pip install uvicorn[standart]
+pip install pandas
+pip install numpy
+pip install scipy==1.4.1
+pip install scikit-learn==1.0.2
