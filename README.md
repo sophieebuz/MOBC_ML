@@ -44,7 +44,7 @@
       - объект подается без пропусков в данных
 ![img1](https://github.com/sophieebuz/MOBC_ML/blob/main/screenshots/Screenshot_7.jpg)
 ![img2](https://github.com/sophieebuz/MOBC_ML/blob/main/screenshots/Screenshot_8.jpg)
-![img2](https://github.com/sophieebuz/MOBC_ML/blob/main/screenshots/Screenshot_9.jpg)
+![img3](https://github.com/sophieebuz/MOBC_ML/blob/main/screenshots/Screenshot_9.jpg)
       - объект подается c пропусками в данных (в числовых столбцах)
 ![img1](https://github.com/sophieebuz/MOBC_ML/blob/main/screenshots/Screenshot_1.jpg)
 ![img2](https://github.com/sophieebuz/MOBC_ML/blob/main/screenshots/Screenshot_2.jpg)
