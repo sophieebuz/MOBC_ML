@@ -35,6 +35,6 @@
  - реализация серсива на FastApi по предсказанию цены машин/ы
    * предсказание на одном обекте:
       - объект подается без пропусков в данных
-![img1]()
+![img1](https://github.com/sophieebuz/MOBC_ML/blob/main/screenshots/Screenshot_1.jpg)
   
    
